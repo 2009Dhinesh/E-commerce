@@ -2,7 +2,8 @@ E-Commerce Project
 
   Overview
   
-    This is a simple e-commerce website project that showcases products with a sleek and responsive design. It features a loading page to enhance the user experience while the main content loads.
+    This is a simple e-commerce website project that showcases products with a sleek and responsive design. 
+    It features a loading page to enhance the user experience while the main content loads.
 
   Features
   
